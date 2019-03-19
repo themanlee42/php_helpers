@@ -4,7 +4,7 @@
 
 php helpers util useful functions
 
-I could not find a good scientific e notation to decimal notation converter that supports a LARGE number.
+I could not find a good PHP scientific e notation to decimal notation convertor that supports a LARGE number.
 So I have decided to make my own.
 
 It is not pretty.  But It does the job.
