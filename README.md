@@ -1,5 +1,7 @@
 # php_helpers
 
+# sci_to_dec.php
+
 php helpers util useful functions
 
 I could not find a good scientific e notation to decimal notation converter that supports a LARGE number.
